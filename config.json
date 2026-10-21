@@ -1,0 +1,30 @@
+{
+    "Promesa de Pago": {
+        "pago el viernes": 50,
+        "mañana deposito": 50,
+        "ya pagué": 100,
+        "transferencia lista": 80,
+        "fin de mes": 40
+    },
+    "Riesgo Legal": {
+        "sernac": 100,
+        "cmf": 100,
+        "mi abogado": 100,
+        "voy a demandar": 90,
+        "estafa": 80,
+        "sinverguenzas": 40
+    },
+    "Vulnerabilidad Económica": {
+        "estoy cesante": 80,
+        "me despidieron": 80,
+        "no tengo plata": 50,
+        "imposible pagar": 50,
+        "quiebra": 100
+    },
+    "Localizar Fallido": {
+        "número equivocado": 100,
+        "no lo conozco": 100,
+        "falleció": 100,
+        "se cambió": 80
+    }
+}
