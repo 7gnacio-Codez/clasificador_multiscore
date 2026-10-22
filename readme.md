@@ -71,7 +71,7 @@ if resultado["scores_por_categoria"]["Riesgo Legal / Reclamo"] >= 100:
     print("ALERTA: Derivar ticket a equipo Legal de inmediato.")
 ```
 
-## 🛠️ Métodos Principales
+## Métodos Principales
 
 *   `MultiCategoryScoreClassifier.from_json(path)`: Inicializa el motor leyendo el JSON y precompilando las expresiones regulares de manera optimizada.
 *   `evaluate_text(text: str)`: Retorna un diccionario con la `categoria_principal`, los `scores_por_categoria` y la `evidencia_detallada`.
